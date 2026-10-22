@@ -15,7 +15,9 @@ platform "linux" "amd64" {
 }
 
 version "3.43.1" {}
+version "3.54.0" {}
 
 sha256sums = {
+  "https://github.com/hashgraph-online/hol-guard/releases/download/v3.54.0/hol-guard-core-3.54.0-x86_64-unknown-linux-gnu": "784ab1d31d47fa2dd7b1e686c31c9c218457b42be899e458ff6f09895d1786ac",
   "https://github.com/hashgraph-online/hol-guard/releases/download/v3.43.1/hol-guard-core-3.43.1-x86_64-unknown-linux-gnu": "2e93de032e22e21415c976832bdc886dc9d1399db2c24d48d7b810328ba44732",
 }
